@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.527" height="35.527" viewBox="0 0 35.527 35.527">
+  <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(1 1)">
+    <g id="Group_2857" data-name="Group 2857" transform="translate(-251.218 -105.635)" opacity="0.9">
+      <circle id="Ellipse_733" data-name="Ellipse 733" cx="16.764" cy="16.764" r="16.764" transform="translate(251.218 105.635)" fill="none" stroke="#e8292c" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <path id="Icon_material-email" data-name="Icon material-email" d="M18.226,6H4.692A1.689,1.689,0,0,0,3.008,7.692L3,17.842a1.7,1.7,0,0,0,1.692,1.692H18.226a1.7,1.7,0,0,0,1.692-1.692V7.692A1.7,1.7,0,0,0,18.226,6Zm0,3.383-6.767,4.229L4.692,9.383V7.692l6.767,4.229,6.767-4.229Z" transform="translate(5.541 4.233)" fill="#e45c5e"/>
+  </g>
+</svg>

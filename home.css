@@ -1,0 +1,222 @@
+*{
+	font-family: Poppins;
+}
+
+body{
+	background-image: url('images/diagmonds_@2X.png');
+}
+
+div{
+	opacity: .9;
+}
+
+div p a{
+  float: right;
+  text-decoration: none;
+  color: white;
+  padding: 6px 20px;
+  border-radius: 25px;
+  opacity: 1;
+  transition: 0.6s ease;
+  background-color: red;
+  border:1px;
+  position: relative;
+  top: 440px;
+  right: 500px;
+}
+
+div p a:hover{
+    background-color: #E8292C ;
+    color: black;
+}
+
+
+.logostuff{
+	top: 218px;
+    left: 90px;
+    width: 514px;
+    height: 514px;
+    float: 
+}
+
+.logo1{
+	opacity: none;
+}
+
+.logotext{
+	float: left;
+	font-family: Edo sZ;
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+	position: relative;
+	left: 20px;
+}
+
+.hometxt{
+	height: 324px;
+	float: right;
+	color: white;
+	line-height: 300%;
+	letter-spacing: 6.3px;
+	position: relative;
+	top: 60px;
+	right: -190px;
+}
+
+.first{
+	position: absolute;
+	right: 200px;
+}
+
+figure h1, .discover{
+	line-height: 100%;
+}
+
+
+
+.bodytext{
+	color: white;
+	position: relative;
+	top: 700px;
+	left:60px;
+}
+
+.bestsell{
+  display: inline-block;
+  margin:3px;
+  padding: 5px;
+  align-items: center;
+}
+
+.bestsell .buri{
+	position: relative;
+	top: 880px;
+	left: 300px;
+}
+
+.bestsell .tacs{
+	position: relative;
+	top: 880px;
+	left: 300px;
+}
+
+.bestsell .tort{
+	position: relative;
+	top: 880px;
+	left: 300px;
+}
+
+.bestseller{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+}
+
+.bestseller img{
+    border: 20px solid white;
+    padding-bottom:100px;
+    border-radius: 25px;
+    background-color: white;
+	width: 230px;
+	height: 200px;
+	position:relative;
+	top:1000px;
+	left: 300px;
+    transition: 0.6s ease;
+}
+
+.bestseller img:hover{
+	background-color: #E8292C;
+}
+
+header{
+position: relative;
+top: -10px;
+left: -10px;
+width: 102%;
+height: 80px;
+background: darkgrey 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+margin-top: -5px;
+}
+
+ul li{
+  display: inline-block;
+  margin-right: 20px;
+  color:red;
+  float: right;
+  margin-top: 20px;
+
+}
+
+ul li a{
+  text-decoration: none;
+  color: white;
+  padding: 6px 20px;
+  border-radius: 25px;
+  opacity: 1;
+  transition: 0.6s ease;
+}
+
+ul li a:hover{
+    background-color: #E8292C ;
+    color: black;
+}
+
+h2:hover{
+  background-color: crimson;
+}
+
+.line{
+top: 3968px;
+left: 1px;
+width: 100%;
+height: 23px;
+background: darkgrey 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.left{
+	margin-top: 50px;
+}
+
+.left img{
+	float: left;
+	height: 20px;
+    position: relative;
+    padding: 1px;
+}
+
+.logos img{
+   position: relative;
+   left: 0px;
+   height: 40px;
+   padding: 1;
+}
+
+.right{
+	float: right;
+	line-height: 25px;
+	position: relative;
+	top: -255px;
+	right: 20px;
+}
+
+.right img{
+	height: 100px;
+}
+
+#contact{
+	transition: 0.6s ease;
+}
+
+footer{
+position: relative;
+top: 1000px;
+width: 101.5%;
+height: 300px;
+background: #FFE9E9 0% 0% no-repeat padding-box;
+opacity: 1;
+}
